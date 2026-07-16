@@ -6,7 +6,7 @@ My academic background is strongly focused on Front-end, but my learning is cont
 
 ---
 
-<!-- GitHub Stats (Fixed Server) -->
+<!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=SuporteGoedert&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117" alt="Víctor's Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SuporteGoedert&theme=dark&layout=compact&hide_border=true&bg_color=0d1117" alt="Víctor's Languages" />
@@ -16,8 +16,27 @@ My academic background is strongly focused on Front-end, but my learning is cont
 
 ### 🛠️ Technologies Used
 
-<div align="center">
+<!-- Ícones divididos em linhas para não quebrar o layout -->
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vite,tailwind,bootstrap,js,ts,postgres,mysql,nodejs,python" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,js,ts,vue,vite,tailwind,bootstrap" alt="Front-end Skills" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mysql,firebase,supabase" alt="Back-end and Database Skills" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,azure,vercel,npm,powershell,md,figma,ps" alt="Tools and Design" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <a href="https://linkedin.com/in/victor-meira-alves" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/vitiin_048_" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:meira.alves.victor@email.com">
+    <img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
