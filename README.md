@@ -1,9 +1,8 @@
-Olá! Sou o **Víctor Meira Alves** 👋
+# 👨‍💻 Víctor Meira Alves
 
-Estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e atualmente atuando como **Suporte de TI na empresa Goedert**. Meu principal objetivo profissional é consolidar minha transição de carreira para a área de **Desenvolvimento de Software (Programação)**.
+Estudante de Análise e Desenvolvimento de Sistemas na **FIAP** e profissional de Suporte de TI na **Goedert**.
 
-Tenho forte facilidade e foco na estruturação, componentização e documentação de aplicações no ecossistema **Front-end**. No momento, estou aprofundando meus conhecimentos na camada de **Back-end** e integrações para me tornar um desenvolvedor completo.
-
+Minha base acadêmica é muito voltada para o Front-end, mas meu aprendizado é contínuo e prático, impulsionado por projetos pessoais e por desafios reais que surgem no dia a dia da empresa. Encaro o desenvolvimento de software como um passo essencial para o que realmente quero fazer a longo prazo: atuar na área de **CyberSecurity**. Acredito que, para projetar defesas eficientes e realizar testes de segurança consistentes, primeiro preciso dominar como um software é estruturado, mantido e colocado de pé.
 ---
 
 # 💻 Tech Stack:
