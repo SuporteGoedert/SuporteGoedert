@@ -22,14 +22,6 @@ No dia a dia, divido meu tempo entre resolver problemas no suporte e estudar pro
 
 ---
 
-### 📬 Onde me encontrar
-
-* **LinkedIn:** [linkedin.com/in/seu-usuario-aqui](https://linkedin.com/in/seu-usuario-aqui) <!-- Lembre de tirar os espaços do seu link real aqui! -->
-* **Instagram:** [@vitiin_048_](https://instagram.com/vitiin_048_)
-* **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-
----
-
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=SuporteGoedert&theme=dark&hide_border=true&show_icons=true" height="150" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SuporteGoedert&theme=dark&hide_border=true&layout=compact" height="150" alt="Linguagens mais usadas" />
