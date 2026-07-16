@@ -8,8 +8,8 @@ My academic background is strongly focused on Front-end, but my learning is cont
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SuporteGoedert&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117" alt="Víctor's Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SuporteGoedert&theme=dark&layout=compact&hide_border=true&bg_color=0d1117" alt="Víctor's Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=SuporteGoedert&theme=dark&show_icons=true&hide_border=true&bg_color=#4169E1" alt="Víctor's Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SuporteGoedert&theme=dark&layout=compact&hide_border=true&bg_color=#4169E1" alt="Víctor's Languages" />
 </div>
 
 ---
