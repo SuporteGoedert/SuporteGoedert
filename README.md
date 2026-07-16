@@ -28,15 +28,3 @@ My academic background is strongly focused on Front-end, but my learning is cont
 </p>
 
 ---
-
-<div align="center">
-  <a href="https://linkedin.com/in/victor-meira-alves" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/vitiin_048_" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:meira.alves.victor@email.com">
-    <img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
