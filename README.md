@@ -1,28 +1,58 @@
-# Víctor Meira Alves
+# 👨‍💻 Víctor Meira Alves
 
-Estudante de Análise e Desenvolvimento de Sistemas na **FIAP** e atualmente trabalhando no suporte de TI da **Goedert**. 
-
-No dia a dia, divido meu tempo entre resolver problemas no suporte e estudar programação para fazer a transição definitiva para dev. Tenho facilidade com a estrutura, componentização e documentação de telas, e atualmente estou desvendando os mistérios do back-end.
+Estudante de Análise e Desenvolvimento de Sistemas na **FIAP** e profissional de Suporte de TI na **Goedert**. Atualmente me aprofundando em front-end com Vue.js, Tailwind CSS e Vite, enquanto construo minha base em back-end com Node.js e bancos SQL/NoSQL.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Front-end:** Vue.js, Vite, Tailwind CSS, Bootstrap, JavaScript e TypeScript.
-* **Banco de Dados:** PostgreSQL, MySQL, Oracle, Firebase e Supabase.
-* **Back-end & Scripts:** Node.js, Python e PowerShell (meu quebra-galho no suporte).
-* **Infra & Workspace:** Git, GitHub, Vercel e Azure.
+<p align="left">
+  <!-- Front-end -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/>&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaçador -->
+  <!-- Back-end/Linguagens -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>&nbsp;
+</p>
+
+<p align="left">
+  <!-- Banco de Dados -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/supabase/supabase-original.svg" alt="Supabase" width="35" height="35"/>&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaçador -->
+  <!-- Outros -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="35" height="35"/>&nbsp;
+</p>
 
 ---
 
 ### 🚀 O que estou aprontando agora?
 
-* Estudando a base de Back-end (APIs, rotas e regras de negócio) para integrar com minhas telas.
-* Documentando meus projetos pessoais aqui no GitHub para mostrar minha evolução na prática.
+*   Integrando aplicações Vue.js com back-end Node.js.
+*   Documentando e estruturando projetos pessoais para portfólio.
 
 ---
 
-<p align="left">
+### 📬 Onde me encontrar
+
+*   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" height="20" /> [linkedin.com/in/victor-meira-alves](https://linkedin.com/in/victor-meira-alves)
+*   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="20" height="20" /> [Víctor Meira Alves](https://facebook.com/seu-usuario-aqui) <!-- Lembre de tirar os espaços do seu link real aqui! -->
+*   📷 [@vitiin_048_](https://instagram.com/vitiin_048_)
+*   ✉️ [meira.alves.victor@email.com](mailto:meira.alves.victor@email.com)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=SuporteGoedert&theme=dark&hide_border=true&show_icons=true" height="150" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SuporteGoedert&theme=dark&hide_border=true&layout=compact" height="150" alt="Linguagens mais usadas" />
 </p>
