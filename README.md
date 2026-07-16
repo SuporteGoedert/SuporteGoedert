@@ -48,22 +48,4 @@ Tenho forte facilidade e foco na estruturação, componentização e documentaç
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </p>
 
----
 
-# 📊 Estatísticas:
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SuporteGoedert&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats do GitHub" height="160" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SuporteGoedert&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Linguagens Mais Usadas" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SuporteGoedert&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-<p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=SuporteGoedert&icon=0&color=0" alt="Contador de Visitas" />
-  </a>
-</p>
