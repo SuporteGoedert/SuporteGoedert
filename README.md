@@ -14,7 +14,7 @@ My academic background is strongly focused on Front-end, but my learning is cont
 
 ---
 
-### 🛠️ Technologies Used
+### 🛠️ Stacks
 
 <!-- Ícones divididos em linhas para não quebrar o layout -->
 <p align="center">
