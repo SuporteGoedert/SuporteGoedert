@@ -1,4 +1,4 @@
-# 👨‍💻 Víctor Meira Alves
+# Hello World, I'm Víctor, be very welcome 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP** e profissional de Suporte de TI na **Goedert**.
 
@@ -6,47 +6,43 @@ Minha base acadêmica é muito voltada para o Front-end, mas meu aprendizado é 
 
 ---
 
-### 🛠️ Minhas Stacks & Ferramentas
-
-<p align="left">
-  <!-- Front-end -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/>&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaçador -->
-  <!-- Back-end/Linguagens -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>&nbsp;
-</p>
-
-<p align="left">
-  <!-- Banco de Dados -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/supabase/supabase-original.svg" alt="Supabase" width="35" height="35"/>&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaçador -->
-  <!-- Outros -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="35" height="35"/>&nbsp;
-</p>
+<!-- Estatísticas Lado a Lado (Estilo do Print) -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SuporteGoedert&theme=dark&show_icons=true" alt="Stats do Víctor" height="180" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuporteGoedert&theme=dark&layout=compact" alt="Linguagens do Víctor" height="180" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📬 Contato & Redes
+### 🛠️ Technologies Used:
 
-*   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" height="20" /> [linkedin.com](https://linkedin.com/in/victor-m-alves)
-*   📷 Instagram: [@vitiin_048_](https://instagram.com/vitiin_048_)
-*   ✉️ E-mail: [Suporte@goedert.com.br](mailto:Suporte@goedert.com.br)
-
----
-
-### 📊 Estatísticas
-
+<!-- Ícones Grandes e Centralizados (Estilo do Print) -->
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SuporteGoedert&theme=dark&hide_border=true&show_icons=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SuporteGoedert&theme=dark&hide_border=true&layout=compact" height="150" alt="Linguagens mais usadas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="80" height="80"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="80" height="80"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="80" height="80"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="80" height="80"/>
+</p>
+
+---
+
+<!-- Botões de Redes Sociais em Formato Pílula (Estilo do Print) -->
+<p align="center">
+  <a href="https://linkedin.com/in/victor-meira-alves" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/vitiin_048_" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:meira.alves.victor@email.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
