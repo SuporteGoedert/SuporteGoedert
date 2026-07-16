@@ -38,7 +38,7 @@ Minha base acadêmica é muito voltada para o Front-end, mas meu aprendizado é 
 
 ### 📬 Contato & Redes
 
-*   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" height="20" /> [linkedin.com/in/victor-m-alves](https://linkedin.com/in/victor-meira-alves)
+*   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" height="20" /> [linkedin.com](https://linkedin.com/in/victor-m-alves)
 *   📷 Instagram: [@vitiin_048_](https://instagram.com/vitiin_048_)
 *   ✉️ E-mail: [Suporte@goedert.com.br](mailto:Suporte@goedert.com.br)
 
