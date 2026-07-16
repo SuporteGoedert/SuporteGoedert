@@ -1,32 +1,30 @@
 # Hello World, I'm Víctor, be very welcome 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas na **FIAP** e profissional de Suporte de TI na **Goedert**.
+Systems Analysis and Development student at **FIAP** and IT Support professional at **Goedert**.
 
-Minha base acadêmica é muito voltada para o Front-end, mas meu aprendizado é contínuo e prático, impulsionado por projetos pessoais e por desafios reais que surgem no dia a dia da empresa. Encaro o desenvolvimento de software como um passo essencial para o que realmente quero fazer a longo prazo: atuar na área de **CyberSecurity**. Acredito que, para projetar defesas eficientes e realizar testes de segurança consistentes, primeiro preciso dominar como um software é estruturado, mantido e colocado de pé.
+My academic background is strongly focused on Front-end, but my learning is continuous and practical, driven by personal projects and real-world challenges that arise daily at the company. I see software development as an essential step toward what I truly want to do in the long run: work in **CyberSecurity**. I believe that to design efficient defenses and perform consistent security tests, I first need to master how a software is structured, maintained, and deployed.
 
 ---
 
-<!-- Estatísticas Lado a Lado -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuporteGoedert&theme=dark&show_icons=true&hide_border=true" alt="Stats do Víctor" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuporteGoedert&theme=dark&layout=compact&hide_border=true" alt="Linguagens do Víctor" height="170" />
-</p>
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuporteGoedert&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117" alt="Víctor's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuporteGoedert&theme=dark&layout=compact&hide_border=true&bg_color=0d1117" alt="Víctor's Languages" />
+</div>
 
 ---
 
 ### 🛠️ Technologies Used
 
-<!-- Ícones exatos do estilo da imagem (Skill Icons) -->
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vite,tailwind,bootstrap,js,ts,postgres,mysql,nodejs,python" alt="Minhas Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=vue,vite,tailwind,bootstrap,js,ts,postgres,mysql,nodejs,python" alt="My Skills" />
   </a>
-</p>
+</div>
 
 ---
 
-<!-- Botões de Redes Sociais -->
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/victor-meira-alves" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
@@ -36,4 +34,4 @@ Minha base acadêmica é muito voltada para o Front-end, mas meu aprendizado é 
   <a href="mailto:meira.alves.victor@email.com">
     <img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
