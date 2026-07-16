@@ -1,5 +1,3 @@
-# 💫 Sobre Mim:
-
 Olá! Sou o **Víctor Meira Alves** 👋
 
 Estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e atualmente atuando como **Suporte de TI na empresa Goedert**. Meu principal objetivo profissional é consolidar minha transição de carreira para a área de **Desenvolvimento de Software (Programação)**.
