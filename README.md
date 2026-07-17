@@ -15,7 +15,7 @@ Hoje, dedico minha energia a estruturar e impulsionar a entrada da minha empresa
 ### 💻 Meu Arsenal Tecnológico
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,react,bootstrap," />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,tailwind,react,bootstrap,linux,kali,postgres" />
   </a>
 </p>
 
