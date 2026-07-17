@@ -13,9 +13,11 @@ Sou um desenvolvedor apaixonado por arquitetura de software, fundamentos de sist
 Hoje, dedico minha energia a estruturar e impulsionar a entrada da minha empresa no universo do desenvolvimento de software. É um trabalho de base, estratégia e muita inovação, onde aplico as melhores práticas de mercado para garantir qualidade a longo prazo.
 
 ### 💻 Meu Arsenal Tecnológico
-<div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</div>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts" />
+  </a>
+</p>
 
 ---
 
