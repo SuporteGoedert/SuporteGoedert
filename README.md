@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🏢 Goedert Group</h1>
+  <h1> Goedert Group</h1>
   <p><b>Inovação, Expansão e Tecnologia</b> | <i>Bem-vindo ao hub de engenharia da Goedert.</i></p>
 </div>
 
