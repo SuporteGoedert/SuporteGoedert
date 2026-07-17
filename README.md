@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Olá, eu sou o Víctor Meira Alves</h1>
   <p><b>Engenheiro de Software & Desenvolvedor Full Stack</b></p>
-  <p><i>Construindo soluções inovadoras e liderando a expansão tecnológica no <b>Goedert Group</b>.</i></p>
+  <p><i>Construindo soluções inovadoras e a expansão tecnológica no <b>Goedert Group</b>.</i></p>
 </div>
 
 ---
