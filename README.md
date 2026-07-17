@@ -26,5 +26,5 @@ My academic background is strongly focused on Front-end, but my learning is cont
     <img src="https://skillicons.dev/icons?i=git,github,azure,vercel,md,figma,ps" alt="Tools and Design" />
   </a>
 </p>
-
+'
 ---
