@@ -23,7 +23,7 @@ My academic background is strongly focused on Front-end, but my learning is cont
     <br><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mysql,firebase,supabase" alt="Back-end and Database Skills" />
     <br><br>
-    <img src="https://skillicons.dev/icons?i=git,github,azure,vercel,npm,powershell,md,figma,ps" alt="Tools and Design" />
+    <img src="https://skillicons.dev/icons?i=git,github,azure,vercel,md,figma,ps" alt="Tools and Design" />
   </a>
 </p>
 
