@@ -6,11 +6,14 @@
 
 ---
 
-## 🚀 Sobre o meu momento atual
+## 🚀 O que eu faço (Meu Foco)
 
-Sou um desenvolvedor apaixonado por arquitetura de software, fundamentos de sistemas e por transformar desafios complexos em código eficiente, escalável e limpo. 
+Minha principal missão no **Goedert Group** é fazer a operação rodar de forma inteligente, rápida e sem fricção. Sou o ponto de contato para identificar os desafios tecnológicos da empresa e traduzi-los em soluções práticas. Meu trabalho atua em duas grandes frentes:
 
-Hoje, dedico minha energia a estruturar e impulsionar a entrada da minha empresa no universo do desenvolvimento de software. É um trabalho de base, estratégia e muita inovação, onde aplico as melhores práticas de mercado para garantir qualidade a longo prazo.
+* 📱 **Desenvolvimento de Aplicações:** Quando um problema pode ser resolvido com tecnologia, eu coloco a mão no código. Desenvolvo ferramentas, aplicativos e automações sob medida para otimizar o dia a dia da nossa equipe.
+* 🛠️ **Auxílio Presencial & Suporte:** Entendo que tecnologia é feita por e para pessoas. Estou presente no dia a dia da empresa, dando suporte prático e humanizado na linha de frente para garantir que nenhum problema técnico trave o crescimento do nosso time.
+
+---
 
 ### 💻 Meu Arsenal Tecnológico
  <p align="center">
