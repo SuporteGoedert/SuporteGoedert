@@ -6,15 +6,6 @@
 
 ---
 
-## 🚀 O que eu faço (Meu Foco)
-
-Minha principal missão no **Goedert Group** é fazer a operação rodar de forma inteligente, rápida e sem fricção. Sou o ponto de contato para identificar os desafios tecnológicos da empresa e traduzi-los em soluções práticas. Meu trabalho atua em duas grandes frentes:
-
-* 📱 **Desenvolvimento de Aplicações:** Quando um problema pode ser resolvido com tecnologia, eu coloco a mão no código. Desenvolvo ferramentas, aplicativos e automações sob medida para otimizar o dia a dia da nossa equipe.
-* 🛠️ **Auxílio Presencial & Suporte:** Entendo que tecnologia é feita por e para pessoas. Estou presente no dia a dia da empresa, dando suporte prático e humanizado na linha de frente para garantir que nenhum problema técnico trave o crescimento do nosso time.
-
----
-
 ### 💻 Meu Arsenal Tecnológico
  <p align="center">
   <a href="https://skillicons.dev">
